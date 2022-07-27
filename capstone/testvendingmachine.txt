@@ -1,0 +1,6 @@
+T1|Test Chips|1.10|Chip
+T2|Test Candy|1.20|Candy
+T3|Test Gum|1.30|Gum
+T4|Test Drink|1.40|Drink
+T5|Tester|1.50|Candy
+T6|Testy|99.99|Gum
